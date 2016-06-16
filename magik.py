@@ -1,1 +1,1 @@
-d985c53a-33c6-11e6-aeaf-185e0f5ac2f1
+print 'The answer is 42'
